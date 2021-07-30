@@ -1,0 +1,17 @@
+
+
+/*tabs heading csss*/
+.tabshead1
+{
+    display: flex;
+    height: 10px;
+    
+    
+}
+
+p
+{
+    font-weight: bold;
+    color: black;
+   
+}

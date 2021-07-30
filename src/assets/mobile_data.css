@@ -1,0 +1,194 @@
+
+.mobile-offer-text{
+  font-size: 9px;
+  width:180px
+}
+.offer{
+  display:flex;
+  text-align: left;
+  padding-left: 120px;
+}
+.phone-list{
+  display: flex;
+}
+.phone-details{
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 130px;
+}
+.phone-details2{
+  text-align: left;
+  margin-top: 30px;
+ 
+}
+.phone-details3{
+  text-align: left;
+  margin-top: 30px;
+ 
+}
+.phone-details4{
+  text-align: left;
+  margin-top: 30px;
+ 
+}
+.container{
+  display: flex;
+}
+.filter_list1{
+  padding-left: 900px;
+}
+.filter_list2{
+  padding-left: 20px;
+}
+.phone_image{
+  margin-top: 15px;
+  text-align: center;
+  margin-left: 80px;
+
+} 
+.dialog-box{
+  background-color:white;
+  text-align: left;
+  width:250px;
+  height: 380px;
+  font-size: 10px;
+}
+.dialogbutton1{
+  width:100px;
+  height: 18px;
+  background-color: orange;
+  color: #e5e4e2;
+  border-radius: 10px;
+  font-size: 9px;
+  text-align: left;
+}
+.dialogbutton2{
+width:100px;
+  height: 17px;
+  background-color:green;
+  color: #e5e4e2;
+  border-radius: 10px;
+  font-size: 9px;
+  text-align: left;
+}
+.placeholder{
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.support_text{
+  text-align: center;
+  margin-top: 5px;
+}
+.border-button {
+  outline: solid 1px #fcc651;
+  transition: outline 0.6s linear;
+  box-shadow: orange;
+  margin: 0.5em; /* Increased margin since the outline expands outside the element */
+}
+
+.border-button:hover { outline-width: 3px; }
+.image_button1
+{
+margin-left: -5px;
+
+}
+.image_button
+{
+ 
+  text-align: center;
+  margin-left: 70px;
+  height: 30px;
+}
+
+
+.model_name{
+  font-weight: bold;
+  size: 50px;
+  text-align: center;
+
+}
+.plans{
+  font-size: 12px;
+  text-align: center;
+}
+.mobile_details{
+  padding-left: 90px;
+  margin-top: 10px;
+  text-align: center;
+}
+.price_intrest{
+  font-size: 9px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+
+.phone_card
+{
+  
+  /* width: 310px; */
+  width:306px;
+ border: none;
+ text-align: center;
+}
+
+.discount_link{
+  color: black;
+
+}
+.product-container
+{
+  display: flex;
+  flex-direction: row !important;
+  flex-wrap:  wrap;
+  background-color: white;
+  text-align: center;
+ 
+}
+
+
+
+
+/*rating part css*/
+*{
+  margin: 0;
+  padding: 0;
+}
+.rate {
+  float: left;
+  height: 30px;
+  padding: 0 10px;
+  margin-left: 140px;
+  
+}
+.rate:not(:checked) > input {
+  position:absolute;
+  top:-9999px;
+}
+.rate:not(:checked) > label {
+  float:right;
+  width:20px;
+  height: 23px;
+  overflow:hidden;
+  white-space:nowrap;
+  cursor:pointer;
+  font-size:20px;
+  color:#ccc;
+}
+.rate:not(:checked) > label:before {
+  content: '★ ';
+}
+.rate > input:checked ~ label {
+  color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+  color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+  color: #c59b08;
+}

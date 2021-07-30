@@ -1,0 +1,77 @@
+.firstpage_text
+{
+    width:400px;
+    text-align: left;
+    margin-left: 50px;
+
+}
+
+.home_text
+{
+    color: black;
+    font-size: 30px;
+    font-weight: lighter;
+    
+   
+}
+.rent_button{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 12px;
+    width: 150px;
+    height: 33px;
+    margin-top: 10px;
+}
+.conditions
+{
+    font-size: 15px;
+    font-family: Abadi Extra Light;
+    font-weight: 500;
+    color: black;
+    margin-top: 10px;
+}
+.secondpage_text
+{
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+    width: 400px;
+    
+    margin-right: 200px;
+}
+.not_phones{
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+    
+}
+.explore_button
+{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 12px;
+    width: 150px;
+    height: 33px;
+    margin-top: 10px;
+}
+.secondpage_left_text{
+    margin-bottom: 400px;
+  padding-right: 300px;
+  
+}
+#myCarousel-indicators li{
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+   background-color: black;
+}
+
+.carousel-indicators li{
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+  
+  
+}

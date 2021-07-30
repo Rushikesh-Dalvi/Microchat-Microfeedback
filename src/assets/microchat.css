@@ -1,0 +1,201 @@
+/* .deal
+{
+    display: flex;
+}
+.offertext
+{
+    font-size: 11px;
+    margin-left: 10px;
+}
+
+.hr1
+    {
+        width: 100%;
+    }
+.question
+{
+    font-size: 13px;
+}
+.para
+{
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 3px;
+}
+.chatb
+{
+margin-top: 10px;
+}
+.chatbox1{
+    border:1px solid rgb(233, 160, 24);
+    border-radius: 60px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: rgb(233, 160, 24);
+    padding-top:3px;
+    padding-bottom: 3px;
+    color:white;
+    }
+    .chatbox2{
+    border:1px solid rgb(26, 223, 52);
+    border-radius: 60px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: rgb(26, 223, 52);
+    padding-top:3px;
+    padding-bottom: 3px;
+    margin-left: 17px;
+    color:white;
+    }
+    .textarea{
+    border: .01px solid gray;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    color: gray;
+    margin-top: 5px;
+    display: flex;
+    width: 280px;
+    }
+    .enterimage
+    {
+        margin-left: 50px;
+    }
+    .hr2
+    {
+        width: 200px;
+    }
+    .searchspt
+    {
+        text-align: center;
+        margin-left: 60px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .textareaa{
+        border: .01px solid gray;
+        padding-left: 10px;
+        padding-right: 30px;
+        padding-top:10px;
+        padding-bottom:10px;
+        font-style: italic;
+        font-weight: bold;
+        font-size: 13px;
+        color: gray;
+        margin-top: 5px;
+        display: flex;
+        width: 280px;
+        }
+        .enterimage
+        {
+            margin-left: 50px;
+        } */
+
+
+        .deal
+{
+    display: flex;
+}
+.offertext
+{
+    font-size: 11px;
+    margin-left: 10px;
+}
+
+.hr1
+    {
+        width: 100%;
+        margin-top:5px;
+        margin-bottom:5px;
+    }
+.question
+{
+    font-size: 13px;
+}
+.para
+{
+    font-size: 10px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.chatb
+{
+margin-top: 5px;
+}
+.chatbox1{
+    border:1px solid rgb(233, 160, 24);
+    border-radius: 60px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: rgb(233, 160, 24);
+    padding-top:3px;
+    padding-bottom: 3px;
+    color:white;
+    }
+    .chatbox2{
+    border:1px solid rgb(26, 223, 52);
+    border-radius: 60px;
+    padding-left:10px;
+    padding-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-color: rgb(26, 223, 52);
+    padding-top:3px;
+    padding-bottom: 3px;
+    margin-left: 17px;
+    color:white;
+    }
+    .textareaa{
+    border: .01px solid gray;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 13px;
+    color: gray;
+    margin-top: 5px;
+    display: flex;
+    width: 280px;
+    }
+    .enterimage
+    {
+        margin-left: 50px;
+    }
+    .hr2
+    {
+        /* width: 200px; */
+        width: 100%;
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+    .searchspt
+    {
+        text-align: center;
+        margin-left: 70px;
+        margin-top: 10px;
+        font-size: 13px;
+        
+    }
+    .enterimage
+    {
+        position: absolute;
+        margin-left: 240px;
+    margin-top: -40px;
+    }
